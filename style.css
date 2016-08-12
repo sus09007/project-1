@@ -1,0 +1,43 @@
+body{
+	font-family: 'Armata', sans-serif;
+}
+
+header{
+	margin: 50px;
+	text-align: center; 
+	font-size: 400%;
+}
+
+#previews {
+	float: center;
+}
+
+#PJ1 {
+	display: inline;
+	
+}
+
+#PJ2 {
+	display: inline;
+	
+}
+
+#PJ3 {
+	display: inline;
+	
+}
+
+#PJ4 {
+	display: inline;
+	
+}
+
+
+
+
+main{
+	margin: 50px;
+	text-align: center;
+
+	font-size:75%;
+}
