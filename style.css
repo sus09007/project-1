@@ -8,9 +8,17 @@ header{
 	font-size: 400%;
 }
 
-#previews {
-	float: center;
+.line1{
+	text-align:center;
+	margin:10px auto;
+
 }
+
+.line2{
+	text-align:center;
+	margin:10px auto;
+}
+
 
 #PJ1 {
 	display: inline;
@@ -23,9 +31,9 @@ header{
 }
 
 #PJ3 {
-	display: inline;
-	
+	display:inline;
 }
+
 
 #PJ4 {
 	display: inline;
