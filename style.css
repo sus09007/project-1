@@ -25,22 +25,69 @@ header{
 	
 }
 
+.PJ1 img {
+ 	width:25%;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.PJ1 img:hover {
+  width: 40%
+}
+
 #PJ2 {
 	display: inline;
 	
+}
+.PJ2 img {
+ 	width:25%;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.PJ2 img:hover {
+  width: 40%
 }
 
 #PJ3 {
 	display:inline;
 }
-
+.PJ3 img {
+ 	width:25%;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.PJ3 img:hover {
+  width: 40%
+}
 
 #PJ4 {
 	display: inline;
 	
 }
 
-
+.PJ4 img {
+ 	width:25%;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.PJ4 img:hover {
+  width: 40%
+}
 
 
 main{
